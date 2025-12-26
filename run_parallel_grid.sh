@@ -8,7 +8,7 @@ cd "$ROOT"
 # Hyperparameter grids
 vqc_layers=(2 1)
 reuploading=(3 2 1)
-attn_layers=(1 2 3)
+attn_layers=(1)
 hidden_dims=(__none__)
 model_modules=(model)
 
